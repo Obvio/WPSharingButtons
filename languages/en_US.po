@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-Sharing-Buttons\n"
+"POT-Creation-Date: 2016-05-18 17:22-0300\n"
+"PO-Revision-Date: 2016-05-18 17:38-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ../Projects/Contextive/VVV/www/wordpress-default/wp-"
+"content/plugins/wp-sharing-buttons\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/wp-sharing-buttons-admin.class.php:52
+#: admin/wp-sharing-buttons-admin.class.php:53
+#: admin/wp-sharing-buttons-admin.class.php:200
+msgid "wp Sharing Buttons"
+msgstr "wp Sharing Buttons"
+
+#: admin/wp-sharing-buttons-admin.class.php:80
+msgid "Social Networks Settings"
+msgstr "Social Networks Settings"
+
+#: admin/wp-sharing-buttons-admin.class.php:104
+msgid "Layout and Visual Settings"
+msgstr "Layout and Visual Settings"
+
+#: admin/wp-sharing-buttons-admin.class.php:130
+msgid "Location Settings"
+msgstr "Location Settings"
+
+#: admin/wp-sharing-buttons-enum.class.php:23
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/wp-sharing-buttons-enum.class.php:33
+msgid "Twitter"
+msgstr "Twitter"
+
+#: admin/wp-sharing-buttons-enum.class.php:43
+msgid "Google+"
+msgstr "Google+"
+
+#: admin/wp-sharing-buttons-enum.class.php:53
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: admin/wp-sharing-buttons-enum.class.php:63
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: admin/wp-sharing-buttons-enum.class.php:73
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: admin/wp-sharing-buttons-enum.class.php:83
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: admin/wp-sharing-buttons-enum.class.php:93
+msgid "Reddit"
+msgstr "Reddit"
+
+#: admin/wp-sharing-buttons-enum.class.php:107
+msgid "Button Style"
+msgstr "Button Style"
+
+#: admin/wp-sharing-buttons-enum.class.php:109
+msgid "Icon only"
+msgstr "Icon only"
+
+#: admin/wp-sharing-buttons-enum.class.php:110
+msgid "Label only"
+msgstr "Label only"
+
+#: admin/wp-sharing-buttons-enum.class.php:111
+msgid "Icon and Label"
+msgstr "Icon and Label"
+
+#: admin/wp-sharing-buttons-enum.class.php:115
+msgid "Placement"
+msgstr "Placement"
+
+#: admin/wp-sharing-buttons-enum.class.php:117
+msgid "Float/Sticky on the Left"
+msgstr "Float/Sticky on the Left"
+
+#: admin/wp-sharing-buttons-enum.class.php:118
+msgid "After the title"
+msgstr "After the title"
+
+#: admin/wp-sharing-buttons-enum.class.php:119
+msgid "After the content"
+msgstr "After the content"
+
+#: admin/wp-sharing-buttons-enum.class.php:120
+msgid "Overlaid on featured image"
+msgstr "Overlaid on featured image"
+
+#: admin/wp-sharing-buttons-enum.class.php:121
+msgid "Below featured image"
+msgstr "Below featured image"
+
+#: admin/wp-sharing-buttons-enum.class.php:129
+msgid "Home page"
+msgstr "Home page"
+
+#: admin/wp-sharing-buttons-enum.class.php:130
+msgid "Single post or page"
+msgstr "Single post or page"
+
+#: admin/wp-sharing-buttons-enum.class.php:131
+msgid "Attachment page"
+msgstr "Attachment page"
+
+#: admin/wp-sharing-buttons-enum.class.php:132
+msgid "Category/Archive"
+msgstr "Category/Archive"
+
+#: admin/wp-sharing-buttons-enum.class.php:137
+msgid ""
+"Setup which Social networks you want to show in the sharing buttons widget."
+msgstr ""
+"Setup which Social networks you want to show in the sharing buttons widget."
+
+#: admin/wp-sharing-buttons-enum.class.php:141
+msgid ""
+"Here you can decide where to show the sharing buttons widget as well as "
+"decide on the overall layout of it."
+msgstr ""
+"Here you can decide where to show the sharing buttons widget as well as "
+"decide on the overall layout of it."
+
+#: admin/wp-sharing-buttons-enum.class.php:145
+msgid "Choose where to show sharing buttons."
+msgstr "Choose where to show sharing buttons."
+
+#: wp-sharing-buttons.php:59
+msgid "Settings"
+msgstr "Settings"
+
+#~ msgid "here"
+#~ msgstr "here"
+
+#~ msgid "wp Sharing Buttons is activated, set it up "
+#~ msgstr "wp Sharing Buttons is activated, set it up"
+
+#~ msgid "G+"
+#~ msgstr "G+"
+
+#~ msgid "Only Icon"
+#~ msgstr "Only Icon"
+
+#~ msgid "Only Text label"
+#~ msgstr "Only Text label"
